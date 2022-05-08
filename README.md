@@ -14,8 +14,17 @@ Daily Drivers
 ---
 
 - 👋 Hi, I’m @teohsen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in 
+   - Food
+   - Games
+   - Tech
+   - Space
+- 🌱 I’m currently learning
+   - to be better than yesterday (hahah who isnt..?)
+   - Data Science 
+      - Computer Vision
+      - NLP
+   - React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
