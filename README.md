@@ -1,7 +1,7 @@
 # Hello World
 
 
-Daily Drivers
+Daily
 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -20,11 +20,10 @@ Daily Drivers
    - Tech
    - Space
 - 🌱 I’m currently learning
-   - to be better than yesterday (hahah who isnt..?)
+   - to be better than yesterday
    - Data Science 
       - Computer Vision
       - NLP
-   - React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
