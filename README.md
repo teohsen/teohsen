@@ -37,7 +37,7 @@ Most frequently used IDE
 
 ## &#x1F63A; Recent Project Highlight
 <a href="https://github.com/teohsen/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teohsen&repo=ForTheLoveofFood&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teohsen&repo=Apollo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## &#x1f4c8; GitHub Stats
